@@ -1,8 +1,11 @@
 import random
-
+#======================
 # Constant settings
-RADIUS = 1
-NUM_POINTS = 1000000
+#======================
+CIRCLE_RADIUS = 1.0
+TOTAL_SAMPLES 1_000_000
+SQUARE_POWER = 2
+SQUARE_SIDE_LENGTH = CIRCLE_RADIUS * 2
 AREA_FACTOR = 4
 SQUARE_EXPONENT = 2
 POINT_COUNT_INCREMENT = 1
